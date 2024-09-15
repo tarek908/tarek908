@@ -2,7 +2,7 @@
 ### Hi there 👋, My name is M.Tarekul Islam
 #### Web Developer
 
-I'm a passionate web designer. 💻 I love creating beautiful and user-friendly websites that leave a lasting impression.
+I'm a passionate web designer and developer. 💻 I love creating beautiful and user-friendly websites that leave a lasting impression.
 Skills: Python/ JS / HTML / CSS
 
 - 🌱 I’m currently learning python 
