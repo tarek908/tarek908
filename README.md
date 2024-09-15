@@ -1,16 +1,13 @@
-# Hi there 👋
+![Web Developer](https://pbs.twimg.com/profile_banners/1790116920638767104/1726403168/600x200)
+### Hi there 👋, My name is M.Tarekul Islam
+#### Web Developer
+
+I'm a passionate web designer. 💻 I love creating beautiful and user-friendly websites that leave a lasting impression.
+Skills: Python/ JS / HTML / CSS
+
+- 🌱 I’m currently learning python 
+- 💬 Ask me about web developer 
 
 
-**tarek908/tarek908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tarek908)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-tarekul-islam-263197236//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100050892250747)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/iamtarekislam//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://www.instagram.com/iamtarekislam/)  
 
